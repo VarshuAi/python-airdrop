@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Advanced refer and earn bot
+  name: python-airdrop version: 1.0 type: Repository author: VarshuAi description: >   Advanced refer and earn bot primary_tech: Python
 primary_tech: Python
 ```
 
